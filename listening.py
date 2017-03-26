@@ -17,10 +17,12 @@ class StreamListener(tweepy.StreamListener):
         try:
             print(data, '\n\n\n\n')
             print((data["user"]["screen_name"], data["text"]), '\n')
-            if data["retweet_count"]  > 0:
-                text = data["text"].split(' ', 2)
-                username = data["entities"]["user_mentions"]["screen_name"]
-                fs.write(username + ' said that ' + text[1] + ' ' + data["retweet_count"] + ' \n\n\n')
+            if data["text"].find('RT @') is -1:
+                username = data["user_mentions"]["screen_name"]
+                str1 = 'RT @' + username + ': '
+                text = data["text"].strip(str1)
+                fs.write(username + ' said that ' + text + '\n\n\n')
+                print(username + ' said that ' + text + '\n\n\n')
             else:
                 fs.write(data["user"]["screen_name"] + ' said that ' + data["text"] + ' \n\n\n')
             fs.close()
