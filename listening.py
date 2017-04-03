@@ -24,7 +24,7 @@ class StreamListener(tweepy.StreamListener):
         text = data['text']  # The entire body of the Tweet
 
         try:
-            print(data, '\n', (data["user"]["screen_name"], data["text"]), '\n\n\n\n')
+            print('\n', (data["user"]["screen_name"], data["text"]), '\n\n\n\n')
             if data["text"].find('RT @') is -1:
                 tweet = {'id': tweet_id, 'username': username, 'text': text}
                 # Insert Tweet data to MongoDB
