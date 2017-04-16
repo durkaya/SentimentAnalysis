@@ -1,6 +1,6 @@
 from nltk.tokenize import word_tokenize
 from nltk.stem.porter import PorterStemmer
-from textblob import Word
+from textblob import Word, TextBlob
 
 
 def lemmatize_process(word):
@@ -24,6 +24,10 @@ def tokenize_process(tweet_id, tweet):
     fs.write('id: ' + tweet_id + '{ ')
     fs.write(str(lemmatized))
     fs.write(' }\n\n')
-    print(tokens)
+    print(lemmatized)
     fs.close()
 
+
+def sample_analysis(tweet):
+    sample = TextBlob(tweet)
+    print(sample.sentiment, '\n')

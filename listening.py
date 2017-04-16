@@ -1,6 +1,6 @@
 import tweepy
 import json
-from processes import tokenize_process
+from processes import tokenize_process, sample_analysis
 
 
 # organizing tweet information
@@ -23,9 +23,10 @@ class StreamListener(tweepy.StreamListener):
         try:
             # insert tweet data to tweet.txt file if RT is not exist
             if data['text'].find('RT @') is -1:
-                fs.write(tweet_id + '\n' + time + '\n' + username + '\n' + text + '\n\n\n')
-                print(tweet_id + '\n' + time + '\n' + username + '\n' + text + '\n')
-                print(tokenize_process(tweet_id, text) + '\n\n\n')  # tokenize tweets
+                fs.write(tweet_id + '\t' + time + '\t' + username + '\n' + text + '\n\n\n')
+                print(tweet_id + '\t' + time + '\t' + username + '\n' + text)
+                tokenize_process(tweet_id, text)    # tokenize tweets
+                sample_analysis(text)   # Analysis example
             fs.close()
         except Exception as e:
             print(e)
