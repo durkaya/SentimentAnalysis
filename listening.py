@@ -1,6 +1,6 @@
 import tweepy
 import json
-from processes import tokenize_process, sample_analysis
+from textblob import TextBlob
 
 
 # organizing tweet information
@@ -23,10 +23,15 @@ class StreamListener(tweepy.StreamListener):
         try:
             # insert tweet data to tweet.txt file if RT is not exist
             if data['text'].find('RT @') is -1:
-                fs.write(tweet_id + '\t' + time + '\t' + username + '\n' + text + '\n\n\n')
-                print(tweet_id + '\t' + time + '\t' + username + '\n' + text)
-                tokenize_process(tweet_id, text)    # tokenize tweets
-                sample_analysis(text)   # Analysis example
+                sample = TextBlob(text)
+                polarity = sample.sentiment.polarity
+                subjectivity = sample.sentiment.subjectivity
+                print(tweet_id + '\t' + time + '\t' + username + '\n' + text + '\n' +
+                      'Sentiment Result: polarity=' + str(polarity) +
+                      ', subjectivity' + str(subjectivity) + '\n\n')
+                fs.write(tweet_id + '\t' + time + '\t' + username + '\n' + text + '\n' +
+                         'Sentiment Result: polarity=' + str(polarity) +
+                         ', subjectivity' + str(subjectivity) + '\n\n')
             fs.close()
         except Exception as e:
             print(e)
