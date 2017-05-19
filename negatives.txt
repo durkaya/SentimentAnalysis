@@ -1,0 +1,209 @@
+865523890130255873	Fri May 19 11:05:50 +0000 2017	flyingshipping
+#hot#BOLD BLACK PHILADELPHIA DESIGN WITH CLEAR CHROME/SILVER CASE FOR IP https://t.co/1jKOm3mdk3                 …… https://t.co/4jQQ4oD6pf
+Sentiment Result: polarity=-0.03333333333333332, subjectivity0.4083333333333333
+
+865523909948391426	Fri May 19 11:05:55 +0000 2017	BitFeedCO
+#news #android devi#ces have less crashes compared to #iphone https://t.co/qEBVHFg837 https://t.co/piVFKio7wK
+Sentiment Result: polarity=-0.16666666666666666, subjectivity0.06666666666666667
+
+865524055306248197	Fri May 19 11:06:30 +0000 2017	naihwe
+1M Pink USB Flat Noodle Sync Data Charger Cable Cord For iPhone 5S 5C 6S 6Plus https://t.co/XqqaPrcyV7 https://t.co/WgClZcpJs8
+Sentiment Result: polarity=-0.0625, subjectivity0.2125
+
+865524176265764866	Fri May 19 11:06:58 +0000 2017	newsjsTZ
+Why Google Assistant fails to crack Apple's iPhone ecosystem - The Indian Express https://t.co/oNQBYVYv19    #news https://t.co/fEvLZ7fDB4
+Sentiment Result: polarity=-0.5, subjectivity0.3
+
+865524250957955073	Fri May 19 11:07:16 +0000 2017	BinaryTradeNews
+The Apple Store website is down ahead of Friday's launch of the red iPhone (AA https://t.co/68AGbuEv7i BREAKING NEWS #Trump #RETWEET #MAGA
+Sentiment Result: polarity=-0.07777777777777779, subjectivity0.14444444444444446
+
+865524374673145856	Fri May 19 11:07:46 +0000 2017	Xaenvi_Fausco
+Apple iPhone 3GS - 16GB - Black (AT&amp;T) Smartphone (MC135LL/A) https://t.co/l085vFnaLM https://t.co/Y8lJSZQRkx
+Sentiment Result: polarity=-0.16666666666666666, subjectivity0.43333333333333335
+
+865524423922638849	Fri May 19 11:07:57 +0000 2017	designofGO
+Sale of iPhone case("5 / 5s" and "6") of dead-shapes has begun! Store→https://t.co/yqmv9Egcqa #game #igo #iPhonecase https://t.co/2ATSJXonqw
+Sentiment Result: polarity=-0.4, subjectivity0.4
+
+865524498375651330	Fri May 19 11:08:15 +0000 2017	mamidrebot
+When your phone battery life than an iPhone 7 and it's badly scratched lmao
+Sentiment Result: polarity=-0.04999999999999993, subjectivity0.8333333333333333
+
+865524503589277696	Fri May 19 11:08:16 +0000 2017	GreatCellPhoneG
+For iPhone 6 6s 7 7 Plus Shockproof Ultra Thin Slim Matte Hard Back Case Cover https://t.co/HFbYelz8ho https://t.co/Bfa6VQEp87
+Sentiment Result: polarity=-0.23055555555555554, subjectivity0.46388888888888885
+
+865524511663308801	Fri May 19 11:08:18 +0000 2017	GreatCellPhoneG
+For iPhone 6 6s 7 7 Plus Shockproof Ultra Thin Slim Matte Hard Back Case Cover https://t.co/HFbYelz8ho https://t.co/kz19QcYQIb
+Sentiment Result: polarity=-0.23055555555555554, subjectivity0.46388888888888885
+
+865524517883346944	Fri May 19 11:08:20 +0000 2017	UKiPhoneSales
+eBay: Apple iPhone 6 - 16GB - Space Grey (Unlocked) Smartphone https://t.co/VVXJvGIqFL #apple #iphone #ios https://t.co/bpqnyj18XN
+Sentiment Result: polarity=-0.05, subjectivity0.1
+
+865524525403848705	Fri May 19 11:08:22 +0000 2017	GreatCellPhoneG
+For iPhone 6 6s 7 7 Plus Shockproof Ultra Thin Slim Matte Hard Back Case Cover https://t.co/HFbYelz8ho https://t.co/iUqqa1bX1s
+Sentiment Result: polarity=-0.23055555555555554, subjectivity0.46388888888888885
+
+865524535117742085	Fri May 19 11:08:24 +0000 2017	GreatCellPhoneG
+For iPhone 6 6s 7 7 Plus Shockproof Ultra Thin Slim Matte Hard Back Case Cover https://t.co/HFbYelz8ho https://t.co/DJbTcDi7ES
+Sentiment Result: polarity=-0.23055555555555554, subjectivity0.46388888888888885
+
+865524545607811073	Fri May 19 11:08:26 +0000 2017	SuperCellPhoneS
+For iPhone Se 5 5S Waterproof Case Cover Dirtproof Shockproof Snowproof Black https://t.co/RaKgptErTB https://t.co/TQg7HlhlL4
+Sentiment Result: polarity=-0.16666666666666666, subjectivity0.43333333333333335
+
+865524566256254976	Fri May 19 11:08:31 +0000 2017	Loakzo_Faecfe
+Apple iPhone 4 S Factory Unlocked Black 32 GB AT&amp;T 8MP Smartphone  Sealed ! New https://t.co/RUzRG6a34B https://t.co/NhnW64piXP
+Sentiment Result: polarity=-0.03598484848484848, subjectivity0.44393939393939397
+
+865524588708380672	Fri May 19 11:08:37 +0000 2017	nonfakenews
+OnePlus 5 might steal the WORST feature from the iPhone https://t.co/0uvXTk3VOZ #nonfakenews https://t.co/g4EeCNSDP6
+Sentiment Result: polarity=-1.0, subjectivity1.0
+
+*********
+865524635625897986	Fri May 19 11:08:48 +0000 2017	Faktum_Magazin
+The rumored iPhone 5SE could come in hot pink, not rose gold https://t.co/iW1gyQ2GV4 https://t.co/55kqrVP4Lw
+Sentiment Result: polarity=-0.049999999999999996, subjectivity0.7000000000000001
+
+*********
+865524779943460864	Fri May 19 11:09:22 +0000 2017	dracodemand
+NAZTECH Vault Waterproof Cover for iPhone SE/ 5 / 5s - Black https://t.co/yEoHtAEfXl
+Sentiment Result: polarity=-0.16666666666666666, subjectivity0.43333333333333335
+
+865524943814934528	Fri May 19 11:10:01 +0000 2017	carpalgasbag
+iPhone 6 case, bonsalay 3 in 1 Ultra Thin and Slim Design Coated Premium Non Slip Surface.. https://t.co/vLxK43txFD
+Sentiment Result: polarity=-0.4, subjectivity0.8500000000000001
+
+865525045707259904	Fri May 19 11:10:26 +0000 2017	Klayoven
+How sad and true. https://t.co/IHXaaZEXad
+Sentiment Result: polarity=-0.07500000000000001, subjectivity0.825
+
+865525199768240133	Fri May 19 11:11:02 +0000 2017	s3zzd
+iPhone or Android? — Android is a piece of shit https://t.co/3281bK4pyY
+Sentiment Result: polarity=-0.2, subjectivity0.8
+
+865525288536424449	Fri May 19 11:11:24 +0000 2017	SwiftClassified
+IPhone 7 plus 128gb red limited collection clone @ 9999 https://t.co/yvRbfgmhdc #mobilephones
+Sentiment Result: polarity=-0.03571428571428571, subjectivity0.07142857142857142
+
+865525295423422464	Fri May 19 11:11:25 +0000 2017	Stupidd_Hoes
+mm… are you serious? 🍑💓 https://t.co/VQcPLD5VL5
+Sentiment Result: polarity=-0.3333333333333333, subjectivity0.6666666666666666
+
+*********
+865525345243455488	Fri May 19 11:11:37 +0000 2017	maaaaariahhh
+People with bad acne using the iPhone 7+ camera is tooo damn funny 🤣😭
+Sentiment Result: polarity=-0.22499999999999992, subjectivity0.8333333333333333
+
+865525380500684801	Fri May 19 11:11:46 +0000 2017	Vieqbu_Teozwu
+4x 6FT 8 Pin USB Data Sync Long Charge Charger Cable Cord For iPhone 5 iPhone 6 https://t.co/DFw0ikM5TF https://t.co/uD6HBKB8Z9
+Sentiment Result: polarity=-0.05, subjectivity0.4
+
+*********
+865525394912313344	Fri May 19 11:11:49 +0000 2017	Lilah__x
+my iphone 7 plus is stupid af
+Sentiment Result: polarity=-0.7999999999999999, subjectivity1.0
+
+865525450197540864	Fri May 19 11:12:02 +0000 2017	newsjsug
+OnePlus 5 might steal the WORST feature from the iPhone - https://t.co/6IF1xkVrjL https://t.co/lGnjSZRitF https://t.co/stdl1y7jOV
+Sentiment Result: polarity=-1.0, subjectivity1.0
+
+865525527796342784	Fri May 19 11:12:21 +0000 2017	radioperipou
+NowPlaying : Joseph Jacobs - Secret Place 
+https://t.co/6xYfG30t2W
+
+#iPhone app https://t.co/csmU9zW1an
+
+#PeripouWebRadio
+Sentiment Result: polarity=-0.4, subjectivity0.7
+
+865525551502548996	Fri May 19 11:12:26 +0000 2017	Koobqi_Jienze
+Apple iPhone 4 S Factory Unlocked Black 32 GB AT&amp;T 8MP Smartphone  Sealed ! New https://t.co/mOOfUgyh7L https://t.co/7xDuniiZTR
+Sentiment Result: polarity=-0.03598484848484848, subjectivity0.44393939393939397
+
+865525779588763650	Fri May 19 11:13:21 +0000 2017	Loakzo_Faecfe
+Apple iPhone 4 S Factory Unlocked Black 32 GB AT&amp;T 8MP Smartphone  Sealed ! New https://t.co/RUzRG6a34B https://t.co/3hnctuXgp3
+Sentiment Result: polarity=-0.03598484848484848, subjectivity0.44393939393939397
+
+865525810706370560	Fri May 19 11:13:28 +0000 2017	Saefze_Xaetfu
+Apple iPhone 4 S Factory Unlocked Black 32 GB AT&amp;T 8MP Smartphone  Sealed ! New https://t.co/AkWaMvKwDf https://t.co/unXf8Ro49Z
+Sentiment Result: polarity=-0.03598484848484848, subjectivity0.44393939393939397
+
+865525814300782592	Fri May 19 11:13:29 +0000 2017	Harnooraujla
+So, Google assistant is finally on iPhone. I  am so sad for Siri 😂😂 @Apple . How are they  gonna share  same bedroom.😂
+Sentiment Result: polarity=-0.16666666666666666, subjectivity0.7083333333333334
+
+865525877974605829	Fri May 19 11:13:44 +0000 2017	TBowmanNPR
+The Trump Administration Talent Vacuum, via @nytimes https://t.co/tzr5jKXrjo
+Sentiment Result: polarity=-0.008333333333333333, subjectivity0.0
+
+865525894030344192	Fri May 19 11:13:48 +0000 2017	VishwanathGuru
+In the words of Han Solo "I got a bad feeling about this" https://t.co/vyNIJgqcMp
+Sentiment Result: polarity=-0.6999999999999998, subjectivity0.6666666666666666
+
+865525942734553088	Fri May 19 11:14:00 +0000 2017	boozer973
+@sprint is your service down my iPhone will not let me call
+Sentiment Result: polarity=-0.15555555555555559, subjectivity0.2888888888888889
+
+865525950271807489	Fri May 19 11:14:01 +0000 2017	darren_barefoot
+OnePlus 5 might steal the WORST feature from the iPhone https://t.co/TYKfOMKO7e
+Sentiment Result: polarity=-1.0, subjectivity1.0
+
+865525980353314816	Fri May 19 11:14:09 +0000 2017	mediat_tech
+Why Google Assistant fails to crack Apple's iPhone ecosystem - The Indian Express https://t.co/7heX3mgEfg #Tech IN #India
+Sentiment Result: polarity=-0.5, subjectivity0.3
+
+865525987932491784	Fri May 19 11:14:10 +0000 2017	fuadiijay1
+Think it's weird mandem having a white iPhone 😂 I dunno why 🤷🏾‍♂️
+Sentiment Result: polarity=-0.25, subjectivity0.5
+
+865526160247017475	Fri May 19 11:14:51 +0000 2017	chargingpen
+#hot#BOLD BLACK VIRGINIA DESIGN WITH CLEAR CHROME/SILVER CASE FOR IP https://t.co/w6n5dRmEni                     …… https://t.co/u5tnIF9GEL
+Sentiment Result: polarity=-0.03333333333333332, subjectivity0.4083333333333333
+
+865526171257061377	Fri May 19 11:14:54 +0000 2017	chargingpen
+#hot#BOLD BLACK PHILADELPHIA DESIGN WITH CLEAR CHROME/SILVER CASE FOR IP https://t.co/D1sFEWB1sS                 …… https://t.co/O1WYCkiRLC
+Sentiment Result: polarity=-0.03333333333333332, subjectivity0.4083333333333333
+
+865526198176174080	Fri May 19 11:15:01 +0000 2017	superflashapps
+Have the kids sharpen their #math drills with SuperFlash Numbers! Easy to hard levels! For iPhone/iPad! #homeschool… https://t.co/H8LOMmIhSb
+Sentiment Result: polarity=-0.011197916666666696, subjectivity0.6875
+
+865526216685531138	Fri May 19 11:15:05 +0000 2017	deshewle_info
+#Скидки: (original Baseus Universal Magnetic 360 Degree Rotation Phone Car Holder Magnet mount Holder For ...) - https://t.co/r9RzWbcTbd
+Sentiment Result: polarity=-0.125, subjectivity0.5833333333333334
+
+865526246427336710	Fri May 19 11:15:12 +0000 2017	USiPhoneSales
+eBay: Apple iPhone 7 Plus - 128GB - Jet Black (Unlocked) Smartphone (USED) https://t.co/kLDGbvMYeh #apple #iphone… https://t.co/b7tDfk9AR3
+Sentiment Result: polarity=-0.16666666666666666, subjectivity0.43333333333333335
+
+865526285337903104	Fri May 19 11:15:21 +0000 2017	Ruedce_Yuotga
+Luxury Magnetic Flip Folio Cover PU Leather Wallet Case for iPhone 5/5S/SE Green https://t.co/gLfGpIGy4f https://t.co/AHK8hbn6Gm
+Sentiment Result: polarity=-0.2, subjectivity0.3
+
+865526293495898112	Fri May 19 11:15:23 +0000 2017	Ruedce_Yuotga
+iPhone 5S 5 BLACK Case, HEAVY DUTY TOUGH ARMOR Cover for Apple iPhone SE / 5G https://t.co/ENpX949E7A https://t.co/n69r8mI7En
+Sentiment Result: polarity=-0.2518518518518518, subjectivity0.5888888888888889
+
+865526297807564800	Fri May 19 11:15:24 +0000 2017	crafterei
+iPhone 6s | iPhone 6s Plus Leather Sleeve | LITTLE RAW | https://t.co/rHwMFu2cSJ | #iPhone6s #iPhone6sPlus #iPhone6sSleeve #iPhone6sCase
+Sentiment Result: polarity=-0.2091346153846154, subjectivity0.4807692307692308
+
+865576735303122944	Fri May 19 14:35:49 +0000 2017	0128081414
+I have completed the quest 'Mysteries and Secrets' in the #iPhone game The Tribez.  https://t.co/v9Wx2MTqvZ #iphonegames, #gameinsight
+Sentiment Result: polarity=-0.4, subjectivity0.4
+
+865576780966449152	Fri May 19 14:36:00 +0000 2017	Phonemarket_
+OnePlus 5 might steal the WORST feature from the iPhone - https://t.co/WbPpNHACWW https://t.co/C8cCdYgc6z
+Sentiment Result: polarity=-1.0, subjectivity1.0
+
+865576797429088257	Fri May 19 14:36:04 +0000 2017	0128081414
+I have completed the quest 'Dismantlement' in the #iPhone game The Tribez.  https://t.co/v9Wx2MTqvZ #iphonegames, #gameinsight
+Sentiment Result: polarity=-0.4, subjectivity0.4
+
+865576819482701824	Fri May 19 14:36:10 +0000 2017	0128081414
+I have completed the quest 'Protective Screen' in the #iPhone game The Tribez.  https://t.co/v9Wx2MTqvZ #iphonegames, #gameinsight
+Sentiment Result: polarity=-0.4, subjectivity0.4
+

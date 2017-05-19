@@ -18,10 +18,10 @@ class StreamListener(tweepy.StreamListener):
         time = data['created_at']  # The time of creation of the tweet
         username = data['user']['screen_name']  # The Tweet author's username
         text = data['text']  # The entire body of the Tweet
-        fs = open("tweets.txt", "a")
 
         try:
-            # insert tweet data to tweet.txt file if RT is not exist
+
+            # insert tweet data to text file if RT is not exist
             if data['text'].find('RT @') is -1:
                 sample = TextBlob(text)
                 polarity = sample.sentiment.polarity
@@ -29,6 +29,16 @@ class StreamListener(tweepy.StreamListener):
                 print(tweet_id + '\t' + time + '\t' + username + '\n' + text + '\n' +
                       'Sentiment Result: polarity=' + str(polarity) +
                       ', subjectivity' + str(subjectivity) + '\n\n')
+                if polarity < 0:
+                    text_file = 'negatives.txt'
+
+                elif polarity > 0:
+                    text_file = 'positives.txt'
+
+                else:
+                    text_file = 'neutrals.txt'
+
+                fs = open(text_file, "a")
                 fs.write(tweet_id + '\t' + time + '\t' + username + '\n' + text + '\n' +
                          'Sentiment Result: polarity=' + str(polarity) +
                          ', subjectivity' + str(subjectivity) + '\n\n')
