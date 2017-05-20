@@ -20,29 +20,35 @@ class StreamListener(tweepy.StreamListener):
         text = data['text']  # The entire body of the Tweet
 
         try:
-
+            neg = open('negatives.txt', "a")
+            pos = open('positives.txt', "a")
+            neu = open('neutrals.txt', "a")
             # insert tweet data to text file if RT is not exist
             if data['text'].find('RT @') is -1:
                 sample = TextBlob(text)
                 polarity = sample.sentiment.polarity
                 subjectivity = sample.sentiment.subjectivity
                 print(tweet_id + '\t' + time + '\t' + username + '\n' + text + '\n' +
-                      'Sentiment Result: polarity=' + str(polarity) +
-                      ', subjectivity' + str(subjectivity) + '\n\n')
+                      'Sentiment Result: polarity = ' + str(polarity) +
+                      ', subjectivity = ' + str(subjectivity) + '\n\n')
                 if polarity < 0:
-                    text_file = 'negatives.txt'
+                    neg.write(tweet_id + '\t' + time + '\t' + username + '\n' + text + '\n' +
+                              'Sentiment Result: polarity = ' + str(polarity) +
+                              ', subjectivity = ' + str(subjectivity) + '\n\n')
+                    neg.close()
 
                 elif polarity > 0:
-                    text_file = 'positives.txt'
+                    pos.write(tweet_id + '\t' + time + '\t' + username + '\n' + text + '\n' +
+                              'Sentiment Result: polarity = ' + str(polarity) +
+                              ', subjectivity = ' + str(subjectivity) + '\n\n')
+                    pos.close()
 
                 else:
-                    text_file = 'neutrals.txt'
+                    neu.write(tweet_id + '\t' + time + '\t' + username + '\n' + text + '\n' +
+                              'Sentiment Result: polarity = ' + str(polarity) +
+                              ', subjectivity = ' + str(subjectivity) + '\n\n')
+                    neu.close()
 
-                fs = open(text_file, "a")
-                fs.write(tweet_id + '\t' + time + '\t' + username + '\n' + text + '\n' +
-                         'Sentiment Result: polarity=' + str(polarity) +
-                         ', subjectivity' + str(subjectivity) + '\n\n')
-            fs.close()
         except Exception as e:
             print(e)
         return True

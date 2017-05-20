@@ -1636,3 +1636,745 @@ Sentiment Result: polarity=0.5, subjectivity0.5
 I need @Kdenlow to get an iPhone so I can quadruple text her and know she is getting my texts in the right order
 Sentiment Result: polarity=0.2857142857142857, subjectivity0.5357142857142857
 
+865578533162074112	Fri May 19 14:42:58 +0000 2017	marthajhughes3
+Google Assistant comes to iPhone, adds alerts, hands-free calling &amp; more https://t.co/nF0j1rpObW
+Sentiment Result: polarity=0.5, subjectivity0.5
+
+865578546428760064	Fri May 19 14:43:01 +0000 2017	iCoverLover
+Get a hold of the new Samsung and iPhone Fashion Cases!
+https://t.co/nxeCpXiVfU
+Sentiment Result: polarity=0.17045454545454544, subjectivity0.45454545454545453
+
+865578554825691136	Fri May 19 14:43:03 +0000 2017	heyitsalexusss
+I just used #unfollow for Twitter to spring clean my account. Free iPhone app: https://t.co/uEBlI8l3Y7 - tnx to @spicyapps
+Sentiment Result: polarity=0.38333333333333336, subjectivity0.75
+
+865578557702942720	Fri May 19 14:43:04 +0000 2017	rdomes04
+I entered a giveaway for a chance to win "NaNTECK iPhone 7 Plus Case with One Pack Free Te..." by NaNTECK. https://t.co/54sW2jfq8E #giveaway
+Sentiment Result: polarity=0.6000000000000001, subjectivity0.6000000000000001
+
+865578566792093698	Fri May 19 14:43:06 +0000 2017	TopCellularDeal
+iPhone Cable，3 Pack 6ft 6ft 10ft Extra Long Nylon Braided High Speed Charging Cable Cord for iPhone charger ... -… https://t.co/sERcN44R7t
+Sentiment Result: polarity=0.03666666666666667, subjectivity0.3466666666666667
+
+865578570713845761	Fri May 19 14:43:07 +0000 2017	ennelldo
+I entered a giveaway for a chance to win "NaNTECK iPhone 7 Plus Case with One Pack Free Te..." by NaNTECK. https://t.co/jubSKA3TnN #giveaway
+Sentiment Result: polarity=0.6000000000000001, subjectivity0.6000000000000001
+
+865578619342512128	Fri May 19 14:43:19 +0000 2017	MarketingAggreg
+Marketing Land : Google Assistant comes to iPhone, adds alerts, hands-free calling &amp; more https://t.co/AUd6zA640t
+Sentiment Result: polarity=0.5, subjectivity0.5
+
+865578627060166656	Fri May 19 14:43:21 +0000 2017	Prizzy1D
+New phone till new iPhone is launched in Indian market 🙌
+Sentiment Result: polarity=0.13636363636363635, subjectivity0.45454545454545453
+
+865578630914736132	Fri May 19 14:43:21 +0000 2017	danielalbahena
+#Marketing | Google Assistant comes to iPhone, adds alerts, hands-free calling &amp; more https://t.co/slq1cimfcI
+Sentiment Result: polarity=0.5, subjectivity0.5
+
+865578640334966786	Fri May 19 14:43:24 +0000 2017	SF311Reports
+Opened Street or Sidewalk Cleaning request via iphone at Intersection of Green St &amp; Sonoma St https://t.co/bNrOqUjDR0. Large chair.
+Sentiment Result: polarity=0.007142857142857131, subjectivity0.36428571428571427
+
+865578643585740800	Fri May 19 14:43:24 +0000 2017	PrkashInfomedia
+Google Assistant comes to iPhone, adds alerts, hands-free calling &amp; more https://t.co/EH0Yze4rED #fb
+Sentiment Result: polarity=0.5, subjectivity0.5
+
+865578650397048832	Fri May 19 14:43:26 +0000 2017	myrasandesu
+I'm listening to "Cold-Maroon 5;Future". Let's enjoy music on JOOX! https://t.co/2O3Brqniof https://t.co/JKK0T3LfcF
+Sentiment Result: polarity=0.5, subjectivity0.5
+
+865578680311066625	Fri May 19 14:43:33 +0000 2017	nair_san
+Google Assistant on an iPhone does a better job than Apple's Siri https://t.co/jqFwCPcHnc
+Sentiment Result: polarity=0.5, subjectivity0.5
+
+865578686807810054	Fri May 19 14:43:35 +0000 2017	dwilliamjones
+Google Assistant comes to iPhone, adds alerts, hands-free calling &amp; more https://t.co/ud2udHF3x5 #MarketingLand
+Sentiment Result: polarity=0.5, subjectivity0.5
+
+865578691430100992	Fri May 19 14:43:36 +0000 2017	rjohnson_11
+oh… dat awesome 😋😋 https://t.co/dNKiNb0CxR
+Sentiment Result: polarity=1.0, subjectivity1.0
+
+865578703086133249	Fri May 19 14:43:39 +0000 2017	Kikiklein28
+I entered a giveaway for a chance to win "NaNTECK iPhone 7 Plus Case with One Pack Free Te..." by NaNTECK. https://t.co/h9uQVtyvdq #giveaway
+Sentiment Result: polarity=0.6000000000000001, subjectivity0.6000000000000001
+
+865578709050327040	Fri May 19 14:43:40 +0000 2017	SmartRepairsLtd
+We love these events! https://t.co/HQkQ9jMOc8
+Sentiment Result: polarity=0.625, subjectivity0.6
+
+865578732521762818	Fri May 19 14:43:46 +0000 2017	Dovile53491993
+I've just finished A Gentleman's Embarrassment! I'd love for you to come! https://t.co/PPG3neJQGG #iphone #iphonegames #gameinsight
+Sentiment Result: polarity=0.625, subjectivity0.6
+
+865578740335726592	Fri May 19 14:43:48 +0000 2017	artsails1
+Prints unframed or framed art and original artworks for your iphone or Samsumg case... check this out. https://t.co/4PagzhJa5Z
+Sentiment Result: polarity=0.375, subjectivity0.75
+
+865578743292547072	Fri May 19 14:43:48 +0000 2017	DinaJ
+I so want to #win this new 128GB Limited Edition Red iPhone 7 from @Gleamapp 👉 https://t.co/sa7scp7bdE
+Sentiment Result: polarity=0.21623376623376625, subjectivity0.24935064935064932
+
+865578744211046402	Fri May 19 14:43:48 +0000 2017	ppporpore
+I'm listening to "ข้อความ-Khor Kwam - Pause". Let's enjoy music on JOOX! https://t.co/qywyjObHYP https://t.co/DAj7udqmt8
+Sentiment Result: polarity=0.5, subjectivity0.5
+
+865578745658302464	Fri May 19 14:43:49 +0000 2017	SmigovskyJeanne
+I entered a giveaway for a chance to win "NaNTECK iPhone 7 Plus Case with One Pack Free Te..." by NaNTECK. https://t.co/X4oGU2fsqM #giveaway
+Sentiment Result: polarity=0.6000000000000001, subjectivity0.6000000000000001
+
+865579357359624192	Fri May 19 14:46:15 +0000 2017	seuhbi
+Apple iPhone 6s - 64GB - Silver (Verizon) Smartphone Unlocked Works Great https://t.co/ZD6D88wnko https://t.co/VhIgUQ1gTw
+Sentiment Result: polarity=0.8, subjectivity0.75
+
+865579363827195905	Fri May 19 14:46:16 +0000 2017	seuhbi
+Apple iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone  https://t.co/42ulnNGxva https://t.co/YKZo9GoQOc
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579373566537728	Fri May 19 14:46:19 +0000 2017	rsplanner_media
+Google Assistant comes to iPhone, adds alerts, hands-free calling &amp; more https://t.co/mOn533yy7I
+Sentiment Result: polarity=0.5, subjectivity0.5
+
+865579373902082049	Fri May 19 14:46:19 +0000 2017	flyingshipping
+#hot#BLACK INITIAL H3 DESIGN WITH CLEAR CHROME/SILVER CASE FOR IPHONE 6S PLUS https://t.co/7p9Xibvj4n            …… https://t.co/WrjpzED4qs
+Sentiment Result: polarity=0.05000000000000001, subjectivity0.19166666666666665
+
+865579380004835328	Fri May 19 14:46:20 +0000 2017	AdamPurvis2
+ah dat awesome 😈💓 https://t.co/SVJ0K1vSZw
+Sentiment Result: polarity=1.0, subjectivity1.0
+
+865579389609799680	Fri May 19 14:46:22 +0000 2017	flyingshipping
+#hottt#EMOJI W/ FLOWER EYES COOL DESIGN WITH CLEAR ROSE GOLD CASE FOR IPHONE 7 PLUS https://t.co/QjesrYSBRr      …… https://t.co/NGU7Bwsrm3
+Sentiment Result: polarity=0.35000000000000003, subjectivity0.6611111111111111
+
+865579391379808256	Fri May 19 14:46:23 +0000 2017	giveawayfroozy
+Hiii :) 2017 (Prizzy1D) https://t.co/gRSM4CTOKU
+Sentiment Result: polarity=0.5, subjectivity1.0
+
+865579394596843520	Fri May 19 14:46:24 +0000 2017	Mieygi_Qealyu
+Apple iPhone 6s - 64GB - Silver (Verizon) Smartphone Unlocked Works Great https://t.co/EZYI4lD7lX https://t.co/EQQIdbAhkN
+Sentiment Result: polarity=0.8, subjectivity0.75
+
+865579403564032002	Fri May 19 14:46:26 +0000 2017	Mieygi_Qealyu
+Apple iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone  https://t.co/arHSnYCS71 https://t.co/SFkh44qWz8
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579406231719936	Fri May 19 14:46:26 +0000 2017	LamontagnePatty
+I entered a giveaway for a chance to win "NaNTECK iPhone 7 Plus Case with One Pack Free Te..." by NaNTECK. https://t.co/HIpYmumF3N #giveaway
+Sentiment Result: polarity=0.6000000000000001, subjectivity0.6000000000000001
+
+865579407070576640	Fri May 19 14:46:26 +0000 2017	palida5482
+#ebay iPhone 6 Plus Case 6s Case XIQI Hybrid Cover Heavy Duty Shockproof 5.5inch Full  #XIQI https://t.co/tF5WDIkTsx via @eBay
+Sentiment Result: polarity=0.07499999999999998, subjectivity0.525
+
+865579405849935873	Fri May 19 14:46:26 +0000 2017	flyingshipping
+#hottt#EMOJI W/ A CROWN COOL DESIGN WITH CLEAR ROSE GOLD CASE FOR IPHONE 7 PLUS https://t.co/8OWbHAFrIL    …… https://t.co/6Um1Zv95JA
+Sentiment Result: polarity=0.35000000000000003, subjectivity0.6611111111111111
+
+865579414939197441	Fri May 19 14:46:28 +0000 2017	originalapples
+Apple is fighting legislation that would let you repair your own iPhone - CNBC https://t.co/nAWCzYVlEM
+Sentiment Result: polarity=0.6, subjectivity1.0
+
+865579425831600128	Fri May 19 14:46:31 +0000 2017	flyingshipping
+#hottt#EMOJI W/ HEART SHAPED EYES DESIGN WITH CLEAR ROSE GOLD CASE FOR IPHONE 7 PLUS https://t.co/ePGdyAFKjR     …… https://t.co/bOIYHenkgb
+Sentiment Result: polarity=0.35, subjectivity0.6666666666666666
+
+865579426314149888	Fri May 19 14:46:31 +0000 2017	Ceocqa_Toahbu
+Apple iPhone 6s - 64GB - Silver (Verizon) Smartphone Unlocked Works Great https://t.co/ycXTFDFg8e https://t.co/gPsFIfQoZS
+Sentiment Result: polarity=0.8, subjectivity0.75
+
+865579430709559296	Fri May 19 14:46:32 +0000 2017	5bestthing
+Find out Best #Accessories for Your #iPhone https://t.co/w3YbngdhJW
+Sentiment Result: polarity=1.0, subjectivity0.3
+
+865579436623765505	Fri May 19 14:46:34 +0000 2017	Ceocqa_Toahbu
+Apple iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone  https://t.co/1ySRJsFIjG https://t.co/l7xtsV3sSO
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579443036737537	Fri May 19 14:46:35 +0000 2017	Weephe_Wiugbe
+https://t.co/7PvOP6D1tJ iPhone 6s - 64GB - Silver (Verizon) Smartphone Unlocked Works Great https://t.co/Qfrsivcwn5
+Sentiment Result: polarity=0.8, subjectivity0.75
+
+865579446392193025	Fri May 19 14:46:36 +0000 2017	flyingshipping
+#hottt#ANGRY AMOJI 3D PRINTED DESIGN WITH CLEAR TPU ROSE GOLD CASE FOR IPHO https://t.co/Rp1LoZvSUF     …… https://t.co/7mTB0vvzK5
+Sentiment Result: polarity=0.35, subjectivity0.6666666666666666
+
+865579449634492418	Fri May 19 14:46:37 +0000 2017	Weephe_Wiugbe
+https://t.co/V7d0a01z4i iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone https://t.co/aPOEt6ZCZd
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579452016623616	Fri May 19 14:46:37 +0000 2017	Horses172
+I entered a giveaway for a chance to win "NaNTECK iPhone 7 Plus Case with One Pack Free Te..." by NaNTECK. https://t.co/9h4ItIXQeT #giveaway
+Sentiment Result: polarity=0.6000000000000001, subjectivity0.6000000000000001
+
+865579455246245888	Fri May 19 14:46:38 +0000 2017	Foozji_Ceulzo
+Apple iPhone 6s - 64GB - Silver (Verizon) Smartphone Unlocked Works Great https://t.co/tq67175SWU https://t.co/EyVM6p4amU
+Sentiment Result: polarity=0.8, subjectivity0.75
+
+865579462326222850	Fri May 19 14:46:40 +0000 2017	Foozji_Ceulzo
+Apple iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone  https://t.co/wHtIXaaaAu https://t.co/cwUTXBULzj
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579466885607425	Fri May 19 14:46:41 +0000 2017	flyingshipping
+#hottt#CRYING EMOJI 3D PRINTED DESIGN WITH CLEAR TPU ROSE GOLD CASE FOR IPHONE 7 PLUS https://t.co/YGv4DchrUC    …… https://t.co/KoTCUqLLjv
+Sentiment Result: polarity=0.35, subjectivity0.6666666666666666
+
+865579468022202369	Fri May 19 14:46:41 +0000 2017	Ceuhno_Moicka
+Apple iPhone 6s - 64GB - Silver (Verizon) Smartphone Unlocked Works Great https://t.co/4QiFaYF2Mj https://t.co/je1LEIBMMP
+Sentiment Result: polarity=0.8, subjectivity0.75
+
+865579470912094208	Fri May 19 14:46:42 +0000 2017	SnezhkoSLX
+#Enter to #Win a #free #pair of #Apple #Earbuds for the Iphone 7 https://t.co/Ao7mNbntRS
+Sentiment Result: polarity=0.6000000000000001, subjectivity0.6000000000000001
+
+865579473462099971	Fri May 19 14:46:42 +0000 2017	Ceuhno_Moicka
+Apple iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone  https://t.co/9wWtJy1fhf https://t.co/DaCiBMn2vF
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579480433254400	Fri May 19 14:46:44 +0000 2017	gneisstendril1
+Poweradd Apollo3 8000mAh Power Bank Solar Charger for iPhone, Samsung Galaxy and More Smartphones.. https://t.co/odWQuE84RW
+Sentiment Result: polarity=0.5, subjectivity0.5
+
+865579489543073794	Fri May 19 14:46:46 +0000 2017	flyingshipping
+#hottt#RED 100 EMOJI 3D PRINTED DESIGN WITH CLEAR TPU ROSE GOLD CASE FOR IPHONE 7 PLUS https://t.co/YtmqHiwhay  …… https://t.co/rJ3kWdDodT
+Sentiment Result: polarity=0.35, subjectivity0.6666666666666666
+
+865579492898553856	Fri May 19 14:46:47 +0000 2017	Blue_Bull_Media
+Google Assistant comes to iPhone, adds alerts, hands-free calling &amp; more https://t.co/w3sYXtJUb3
+Sentiment Result: polarity=0.5, subjectivity0.5
+
+865579493901119488	Fri May 19 14:46:47 +0000 2017	Beurva_Fiegqe
+Apple iPhone 6s - 64GB - Silver (Verizon) Smartphone Unlocked Works Great https://t.co/wyjjIVPBsk https://t.co/KtKp1XoFxr
+Sentiment Result: polarity=0.8, subjectivity0.75
+
+865579502126157824	Fri May 19 14:46:49 +0000 2017	Beurva_Fiegqe
+Apple iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone  https://t.co/02GVHHUgCH https://t.co/5dz1wGSvUV
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579502650261506	Fri May 19 14:46:49 +0000 2017	twirgri_garagi
+Apple iPhone 6s - 64GB - Silver (Verizon) Smartphone Unlocked Works Great https://t.co/UvQbVBzVbM https://t.co/QWZGj62bpR
+Sentiment Result: polarity=0.8, subjectivity0.75
+
+865579508220514304	Fri May 19 14:46:51 +0000 2017	twirgri_garagi
+Apple iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone  https://t.co/aHTGQVzqgj https://t.co/bkfqOKYASq
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579508757258245	Fri May 19 14:46:51 +0000 2017	flyingshipping
+#hottt#NERD EMOJI 3D PRINTED DESIGN WITH CLEAR TPU ROSE GOLD CASE FOR IPHONE 7 PLUS https://t.co/F3IUJyDdmI    …… https://t.co/KD7ra2wosf
+Sentiment Result: polarity=0.35, subjectivity0.6666666666666666
+
+865579511232045056	Fri May 19 14:46:51 +0000 2017	quietstorm9722
+really?!  just look at this 😚👅 https://t.co/bN3dLr6QHr
+Sentiment Result: polarity=0.25, subjectivity0.2
+
+865579511223635972	Fri May 19 14:46:51 +0000 2017	Qoempu_Miawpo
+Apple iPhone 6s - 64GB - Silver (Verizon) Smartphone Unlocked Works Great https://t.co/7VYJB0mKHM https://t.co/iNbiJTXzb7
+Sentiment Result: polarity=0.8, subjectivity0.75
+
+865579518261690368	Fri May 19 14:46:53 +0000 2017	Qoempu_Miawpo
+Apple iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone  https://t.co/UZOwXpqN15 https://t.co/ZDuyYdh3rh
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579525559558145	Fri May 19 14:46:55 +0000 2017	SimonRBest
+#Onlinemarketing Google Assistant comes to iPhone, adds alerts, hands-free calling &amp; more https://t.co/jvoIy0AUdf
+Sentiment Result: polarity=0.5, subjectivity0.5
+
+865579526625087489	Fri May 19 14:46:55 +0000 2017	flyingshipping
+#hottt#EMOJI W/ MOUTH CLOSED DESIGN WITH CLEAR ROSE GOLD CASE FOR IPHONE 7 PLUS https://t.co/UimIh5Xscs   …… https://t.co/td4JVwWIfo
+Sentiment Result: polarity=0.19999999999999998, subjectivity0.4777777777777777
+
+865579541984620545	Fri May 19 14:46:59 +0000 2017	Woarki_Reurvi
+Apple iPhone 6s - 64GB - Silver (Verizon) Smartphone Unlocked Works Great https://t.co/NKONqMvklK https://t.co/gjbvI3WQSq
+Sentiment Result: polarity=0.8, subjectivity0.75
+
+865579542345396226	Fri May 19 14:46:59 +0000 2017	flyingshipping
+#hottt#WINKING EMOJI W/ RED LIPS AND EYELASHES ROSE GOLD CASE FOR IPHONE 7 PLUS https://t.co/SUbkl177R7   …… https://t.co/KGsSCNIufM
+Sentiment Result: polarity=0.3, subjectivity0.475
+
+865579549286744070	Fri May 19 14:47:00 +0000 2017	Woarki_Reurvi
+Apple iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone  https://t.co/a3mrGecBb7 https://t.co/LgmYm81qSo
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579559810285569	Fri May 19 14:47:03 +0000 2017	WINNIBH
+I'm listening to "พูด-The Yers". Let's enjoy music on JOOX! https://t.co/GAHArQey7i https://t.co/tUc22BhxTN
+Sentiment Result: polarity=0.5, subjectivity0.5
+
+865579560879898624	Fri May 19 14:47:03 +0000 2017	flyingshipping
+#hottt#I CAN AND I WILL QUOTE COOL COOL DESIGN ROSE  GOLD CASE FOR IPHONE 7 PLUS https://t.co/xeN5B21MkQ  …… https://t.co/ACSTynNLxw
+Sentiment Result: polarity=0.4333333333333333, subjectivity0.75
+
+865579561236389888	Fri May 19 14:47:03 +0000 2017	Lisa_Aviles
+Wow, another fascinating episode. 👏 https://t.co/MvWMbwN5JI
+Sentiment Result: polarity=0.39999999999999997, subjectivity0.925
+
+865579563862171648	Fri May 19 14:47:04 +0000 2017	_lucybutterwort
+Wow only just found out iPhone 7 is waterproof but I'm still too scared too test it
+Sentiment Result: polarity=0.05, subjectivity1.0
+
+865579564931534849	Fri May 19 14:47:04 +0000 2017	castteitterutte
+Wassup People, I'm live on #twitcasting from my iPhone. https://t.co/96Lz2XaaMH #雑談
+Sentiment Result: polarity=0.13636363636363635, subjectivity0.5
+
+865579575178256385	Fri May 19 14:47:07 +0000 2017	Koajgi_Veufyu
+https://t.co/05UKBeABqi iPhone 6s - 64GB - Silver (Verizon) Smartphone Unlocked Works Great https://t.co/0E8MlZ36d7
+Sentiment Result: polarity=0.8, subjectivity0.75
+
+865579577518604288	Fri May 19 14:47:07 +0000 2017	duawjo
+Apple iPhone 6s - 64GB - Silver (Verizon) Smartphone Unlocked Works Great https://t.co/fSiflxTq2M
+Sentiment Result: polarity=0.8, subjectivity0.75
+
+865579578533715968	Fri May 19 14:47:07 +0000 2017	flyingshipping
+#hottt#MOUSE EARS AND BOW SKETCH DESIGN WITH CLEAR ROSE GOLD CASE FOR IPHONE 7 PLUS https://t.co/yTz5GMsykI …… https://t.co/yZI6Vq4k1k
+Sentiment Result: polarity=0.35, subjectivity0.6666666666666666
+
+865579580714831872	Fri May 19 14:47:08 +0000 2017	Loakzo_Faecfe
+Apple iPhone 6s - 64GB - Silver (Verizon) Smartphone Unlocked Works Great https://t.co/DdTa5eK3pk https://t.co/fR49GQwCWb
+Sentiment Result: polarity=0.8, subjectivity0.75
+
+865579582749122561	Fri May 19 14:47:08 +0000 2017	Koajgi_Veufyu
+https://t.co/McW9QQbAfl iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone https://t.co/n0vqjPSP1r
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579583134990336	Fri May 19 14:47:08 +0000 2017	Piubvi_Ciombu
+https://t.co/yrx4S5zOpo iPhone 6s - 64GB - Silver (Verizon) Smartphone Unlocked Works Great https://t.co/lCXHO9BarT
+Sentiment Result: polarity=0.8, subjectivity0.75
+
+865579584183386113	Fri May 19 14:47:09 +0000 2017	duawjo
+Apple iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone https://t.co/ylnUmbwVxC
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579585114562560	Fri May 19 14:47:09 +0000 2017	sureensys
+Apple is fighting legislation that would let you repair your own iPhone https://t.co/oJjCio8Dli
+Sentiment Result: polarity=0.6, subjectivity1.0
+
+865579586716708864	Fri May 19 14:47:09 +0000 2017	Loakzo_Faecfe
+Apple iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone  https://t.co/pmQjgKv5fH https://t.co/Zgw6z1gv6r
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579589518503936	Fri May 19 14:47:10 +0000 2017	Piubvi_Ciombu
+https://t.co/9ERAIavQ2B iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone https://t.co/7DRLtrJrCr
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579593360482304	Fri May 19 14:47:11 +0000 2017	NewsEdges
+How to Turn GIFs into Live Photos on Your iPhone -  https://t.co/bGLPDIHOAh https://t.co/hVby1D8NFc
+Sentiment Result: polarity=0.13636363636363635, subjectivity0.5
+
+865579596321890304	Fri May 19 14:47:12 +0000 2017	Beerga_Xoejyo
+Apple iPhone 6s - 64GB - Silver (Verizon) Smartphone Unlocked Works Great https://t.co/a4JSqv8y0z https://t.co/Ups3QygO22
+Sentiment Result: polarity=0.8, subjectivity0.75
+
+865579596879495169	Fri May 19 14:47:12 +0000 2017	flyingshipping
+#hottt#TEXAS HOME BLACK AND CLEAR DESIGN WITH CLEAR ROSE GOLD CASE FOR IPHONE 7 PLUS https://t.co/xVN4J2jIeC …… https://t.co/o1Gg9gnlR9
+Sentiment Result: polarity=0.15833333333333333, subjectivity0.5375
+
+865579600109117440	Fri May 19 14:47:13 +0000 2017	NewsEdges
+How to Turn GIFs into Live Photos on Your iPhone https://t.co/Lvt5VRgngz
+Sentiment Result: polarity=0.13636363636363635, subjectivity0.5
+
+865579601648660485	Fri May 19 14:47:13 +0000 2017	MyaJayyyy
+Buying my mom an iPhone just because that's what she wants 🤷🏽‍♀️
+Sentiment Result: polarity=0.2, subjectivity0.1
+
+865579602202079233	Fri May 19 14:47:13 +0000 2017	Beerga_Xoejyo
+Apple iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone  https://t.co/t8hxT89WsQ https://t.co/1utvjFaSzB
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579604651716608	Fri May 19 14:47:14 +0000 2017	twirgri_garagi
+Apple iPhone 6s - 64GB - Silver (Verizon) Smartphone Unlocked Works Great https://t.co/9m3XgWuqHX https://t.co/gZXCRCo3A9
+Sentiment Result: polarity=0.8, subjectivity0.75
+
+865579606060957697	Fri May 19 14:47:14 +0000 2017	Doilnu_Duuytu
+Apple iPhone 6s - 64GB - Silver (Verizon) Smartphone Unlocked Works Great https://t.co/ySos2fTgPO https://t.co/QD0VINFpFt
+Sentiment Result: polarity=0.8, subjectivity0.75
+
+865579607705100288	Fri May 19 14:47:14 +0000 2017	Suudgu_Yaavpa
+Apple iPhone 6s - 64GB - Silver (Verizon) Smartphone Unlocked Works Great https://t.co/MUUJ8qTG7y https://t.co/1OCPSf4ibf
+Sentiment Result: polarity=0.8, subjectivity0.75
+
+865579606778105856	Fri May 19 14:47:14 +0000 2017	worldvoipcenter
+iCareFone Pro iCareFone Pro is one of the best iOS ad blocker app for both iPhone and iPad. Within only one click,…… https://t.co/azvPCiOjrr
+Sentiment Result: polarity=0.5, subjectivity0.65
+
+865579612364996608	Fri May 19 14:47:15 +0000 2017	twirgri_garagi
+Apple iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone  https://t.co/aHTGQVzqgj https://t.co/Ql6gGF13ax
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579614231552002	Fri May 19 14:47:16 +0000 2017	Doilnu_Duuytu
+Apple iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone  https://t.co/OElPEXyang https://t.co/DHq4ZoyEc6
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579619268689923	Fri May 19 14:47:17 +0000 2017	ArizonaKern
+In other news... google assistant on iPhone passes basic smart ass question test. https://t.co/wLVuNXJU3G
+Sentiment Result: polarity=0.029761904761904757, subjectivity0.38095238095238093
+
+865579621638701057	Fri May 19 14:47:18 +0000 2017	Suudgu_Yaavpa
+Apple iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone  https://t.co/UF3ra9pr86 https://t.co/ZFWnmpukA3
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579622980665344	Fri May 19 14:47:18 +0000 2017	ebsAds
+Google Assistant comes to iPhone, adds alerts, hands-free calling &amp; more https://t.co/fBxAKex49Q
+Sentiment Result: polarity=0.5, subjectivity0.5
+
+865579634288726017	Fri May 19 14:47:21 +0000 2017	Yaayye_Baepne
+Apple iPhone 6s - 64GB - Silver (Verizon) Smartphone Unlocked Works Great https://t.co/2hD75TVPfN https://t.co/KNhvlbXJlf
+Sentiment Result: polarity=0.8, subjectivity0.75
+
+865579645411786752	Fri May 19 14:47:23 +0000 2017	Yaayye_Baepne
+Apple iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone  https://t.co/ZXqKS6RqQr https://t.co/btRp4Nlb4x
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579870147026944	Fri May 19 14:48:17 +0000 2017	flitchtag1
+@JenMsft @Beam Wow I got a 3 year old iPhone 6! Amazing what a legit mobile OS is like. W10M is pure garbage. @donasarkar @gabeaul
+Sentiment Result: polarity=0.2598214285714286, subjectivity0.65
+
+865579871027609600	Fri May 19 14:48:17 +0000 2017	castteitterutte
+Wassup People, I'm live on #twitcasting from my iPhone. https://t.co/td4nJlUiW4 #雑談
+Sentiment Result: polarity=0.13636363636363635, subjectivity0.5
+
+865579872453885953	Fri May 19 14:48:17 +0000 2017	Hoanga_Teatwo
+Apple iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone  https://t.co/mmxSmT8O5H https://t.co/21ahrHKUhR
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579873347162112	Fri May 19 14:48:18 +0000 2017	Saozpu_Yautki
+https://t.co/C1WOR3FAdZ iPhone 6s - 64GB - Rose Gold (Unlocked) Smartphone https://t.co/NcjFK0SOVZ
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865579879542079490	Fri May 19 14:48:19 +0000 2017	MyComplex
+iCareFone Pro by Tenorshare Co.,Ltd. now FREE on the App Store. Download via https://t.co/6ff7yZFCD6 #iphone #ipad
+Sentiment Result: polarity=0.4, subjectivity0.8
+
+865579881664577536	Fri May 19 14:48:20 +0000 2017	MyComplex
+Night Photo and Video Shoot by Tigran Mkhitaryan now FREE on the App Store. Download via https://t.co/TIoIKNXQ6l #iphone #ipad
+Sentiment Result: polarity=0.4, subjectivity0.8
+
+865579883891630080	Fri May 19 14:48:20 +0000 2017	fgtrend
+iPhone Tricks: 3 Ways To Disable Read Receipts on iMessage https://t.co/tlFnTCRyi1 https://t.co/qD3vxCYONh
+Sentiment Result: polarity=0.5, subjectivity1.0
+
+865580094747705344	Fri May 19 14:49:10 +0000 2017	MobileAATrends
+Apple is opposing a law that would let iPhone buyers repair their own phones https://t.co/dYHBdBqqyu #Apple #Trends #iOS
+Sentiment Result: polarity=0.6, subjectivity1.0
+
+865580096920313856	Fri May 19 14:49:11 +0000 2017	pwwinkk
+I'm now a D-List celebrity in Kim Kardashian: Hollywood. You can be famous too by playing on iPhone!  https://t.co/p2mh3uOz7c
+Sentiment Result: polarity=0.625, subjectivity1.0
+
+865580116537036805	Fri May 19 14:49:16 +0000 2017	ScaryZombie
+Win an IPhone 7, GoPro &amp; £50 Amazon gift card giveaway on gleam! Enter Now. #YouTube #giveaway #Gleam @kevinkweya https://t.co/eGqZHlVxBs
+Sentiment Result: polarity=1.0, subjectivity0.4
+
+865580119364063232	Fri May 19 14:49:16 +0000 2017	WINNIBH
+I'm listening to "เพียงหนึ่งครั้ง-The Yers". Let's enjoy music on JOOX! https://t.co/9Aa3VwIaPw https://t.co/7yyHRWlwdw
+Sentiment Result: polarity=0.5, subjectivity0.5
+
+865580123524808705	Fri May 19 14:49:17 +0000 2017	dxmnbee
+man the jet black iPhone 7 look so good.... but that red tho 😍🤦🏽‍♀️ 
+
+decisions....
+Sentiment Result: polarity=0.17777777777777778, subjectivity0.3444444444444445
+
+865609368586170368	Fri May 19 16:45:30 +0000 2017	ecuuk
+Gold iPhone’a rose kırılmaz ekran taktıysak nolmuş yani hayallerimizi satmadık ya
+Sentiment Result: polarity=0.6, subjectivity0.95
+
+865613257326829568	Fri May 19 17:00:57 +0000 2017	ElBerilY
+Burada gün batmaz... Yeniden doğar... #love #MustafaKemalAtatürk #Atatürk #19Mayıs #19Mayıs1919… https://t.co/rluWLoEOVS
+Sentiment Result: polarity=0.5, subjectivity0.6
+
+865623284343242752	Fri May 19 17:40:48 +0000 2017	bulutdenis
+@Jineps_10 "Buy a New Iphone" taktiğidir o Iphone tarafından :)
+Sentiment Result: polarity=0.3181818181818182, subjectivity0.7272727272727273
+
+865623284343242752	Fri May 19 17:40:48 +0000 2017	bulutdenis
+@Jineps_10 "Buy a New Iphone" taktiğidir o Iphone tarafından :)
+Sentiment Result: polarity=0.3181818181818182, subjectivity0.7272727272727273
+
+865629896051007489	Fri May 19 18:07:04 +0000 2017	metinatmca
+@wyskie84 Iphone bilmiyorum ama androidde gayet sağlıklı çalışıyor :)
+Sentiment Result: polarity=0.5, subjectivity1.0
+
+865629896051007489	Fri May 19 18:07:04 +0000 2017	metinatmca
+@wyskie84 Iphone bilmiyorum ama androidde gayet sağlıklı çalışıyor :)
+Sentiment Result: polarity=0.5, subjectivity1.0
+
+865652742173245440	Fri May 19 19:37:51 +0000 2017	redbul134
+:) iPhone 7 plus farkı :)
+Sentiment Result: polarity=0.5, subjectivity1.0
+
+865652742173245440	Fri May 19 19:37:51 +0000 2017	redbul134
+:) iPhone 7 plus farkı :)
+Sentiment Result: polarity=0.5, subjectivity1.0
+
+865656878889443329	Fri May 19 19:54:17 +0000 2017	aldon_tv
+iPhone 8 Tanıtım videosu  2017  NEW https://t.co/gsY8P0ChIv via @YouTube
+#apple #new.iphone #ip8 #iphone8
+Sentiment Result: polarity=0.13636363636363635, subjectivity0.45454545454545453
+
+865656878889443329	Fri May 19 19:54:17 +0000 2017	aldon_tv
+iPhone 8 Tanıtım videosu  2017  NEW https://t.co/gsY8P0ChIv via @YouTube
+#apple #new.iphone #ip8 #iphone8
+Sentiment Result: polarity=0.13636363636363635, subjectivity0.45454545454545453
+
+865666696916422656	Fri May 19 20:33:18 +0000 2017	lazofli61
+@Vamisku güle güle kullan bende iphone 61 çıkınca alabilirim artık :D
+Sentiment Result: polarity=1.0, subjectivity1.0
+
+865666696916422656	Fri May 19 20:33:18 +0000 2017	lazofli61
+@Vamisku güle güle kullan bende iphone 61 çıkınca alabilirim artık :D
+Sentiment Result: polarity=1.0, subjectivity1.0
+
+865919213478850561	Sat May 20 13:16:43 +0000 2017	rebelha
+I entered a giveaway for a chance to win "Stylish &amp; Revolutionary Aluminum iPad/iPhone Stand" by AboveTEK. https://t.co/n8FZ0x5LnJ #giveaway
+Sentiment Result: polarity=0.65, subjectivity0.7
+
+865919214707769344	Sat May 20 13:16:43 +0000 2017	hioEXtG3BmywYtR
+#OurHeroesAwards
+#nabaa 
+the Best News App in your hands
+Android https://t.co/1intXEJKFC iPhone… https://t.co/XZ7DgZ8y57
+Sentiment Result: polarity=1.0, subjectivity0.3
+
+865919266629058560	Sat May 20 13:16:55 +0000 2017	Sourdust
+@magic_bane It's this old iphone, does whacky things with rotate that only show half the time! :-)
+Sentiment Result: polarity=0.09791666666666668, subjectivity0.5916666666666667
+
+865919265794392065	Sat May 20 13:16:55 +0000 2017	UADafagzMFnbyOi
+#NLBA2017
+#nabaa 
+the Best News App in your hands
+Android https://t.co/ZTJC7vihKM iPhone https://t.co/lSqmr0qecK https://t.co/kllA6ICO50
+Sentiment Result: polarity=1.0, subjectivity0.3
+
+865919288284237824	Sat May 20 13:17:00 +0000 2017	hvfflepuff
+@Violzzz i know right omg one of them was taken on an old samsung and the second on my friends iphone 6
+Sentiment Result: polarity=0.12857142857142856, subjectivity0.24523809523809526
+
+865919973155319808	Sat May 20 13:19:44 +0000 2017	rashedmohamed39
+#soundsofthe80s
+#nabaa 
+the Best News App in your hands
+Android https://t.co/JY55ISOgBv iPhone… https://t.co/8kNTO5B9uh
+Sentiment Result: polarity=1.0, subjectivity0.3
+
+865919984714887168	Sat May 20 13:19:47 +0000 2017	Lagerale
+Let's celebrate! I've completed a quest, The Tailor's House! This game is amazing!  https://t.co/PT2XJ4kjYG #GameInsight #iPhone #...
+Sentiment Result: polarity=0.17500000000000004, subjectivity0.65
+
+865919985562128386	Sat May 20 13:19:47 +0000 2017	thefattaco9242
+Check out my photo of #ClumsyNinja for iPhone! Try it for FREE! https://t.co/AD0bhkHtsY https://t.co/ZUQmjtgUtc
+Sentiment Result: polarity=0.5, subjectivity0.8
+
+865920002779742208	Sat May 20 13:19:51 +0000 2017	rashedmohamed39
+#Bellator179
+#nabaa 
+the Best News App in your hands
+Android https://t.co/JY55ISOgBv iPhone https://t.co/y1mndTWQrt https://t.co/6TUgLaVvbe
+Sentiment Result: polarity=1.0, subjectivity0.3
+
+865920014595104769	Sat May 20 13:19:54 +0000 2017	SonnyVukovitch
+We ain't end up fuckin or nothin but she sure did let my phone get to 100% and there was a lot of heavy flirting go… https://t.co/93T7SfGdS5
+Sentiment Result: polarity=0.15, subjectivity0.6944444444444444
+
+865920017430347776	Sat May 20 13:19:54 +0000 2017	jly48
+Check out OtterBox SYMMETRY CLEAR SERIES Case for iPhone 7 Plus Free  USA Shipping New #OtterBox https://t.co/RyESNzBkh3 via @eBay
+Sentiment Result: polarity=0.21212121212121213, subjectivity0.545959595959596
+
+865920026121043973	Sat May 20 13:19:56 +0000 2017	UADafagzMFnbyOi
+#kimmyschmidt
+#nabaa 
+the Best News App in your hands
+Android https://t.co/ZTJC7vihKM iPhone https://t.co/lSqmr0qecK https://t.co/TIvBxwFWSS
+Sentiment Result: polarity=1.0, subjectivity0.3
+
+865920047369289732	Sat May 20 13:20:01 +0000 2017	twitraffic_
+@fifi2204 thanks to your tweet about the A77 you helped others avoid traffic using the Twitraffic iPhone &amp; Android app
+Sentiment Result: polarity=0.2, subjectivity0.2
+
+865920048527007744	Sat May 20 13:20:02 +0000 2017	TheRealHp1
+@lancearmstrong @Maggie_Mileys @Apple the iphone is not even on the chart for best battery life.
+Apple is a ipod company.
+Sentiment Result: polarity=1.0, subjectivity0.3
+
+865920058312339457	Sat May 20 13:20:04 +0000 2017	CLK_Shortcake
+@BalckBerryINA Passport suddenly not holding charge/not connecting to wi-fi. Better figure out it's attitude. I don't want to go to iPhone.
+Sentiment Result: polarity=0.25, subjectivity0.5
+
+865920074808426496	Sat May 20 13:20:08 +0000 2017	thequ4nt
+@glumobile Tencent $TCEHY $GLUU @glumobile RD:GR v 2.0.9 iOS US #400 Top D/L #135 Top Grossing as of 5:00am UTC-7 M… https://t.co/sKEcoyNxwt
+Sentiment Result: polarity=0.5, subjectivity0.5
+
+865920075261288450	Sat May 20 13:20:08 +0000 2017	Computer_ID
+There's a handy shortcut menu hidden on your iPhone or iPad - ZDNet https://t.co/nyXbmwLz5S #iPad
+Sentiment Result: polarity=0.21666666666666667, subjectivity0.6166666666666667
+
+865920474714427392	Sat May 20 13:21:43 +0000 2017	noway45324
+69 awesome users just followed me. Via @FindUnfollower https://t.co/QHALgqRMhY. #iPhone #App
+Sentiment Result: polarity = 1.0, subjectivity = 1.0
+
+865920527193563136	Sat May 20 13:21:56 +0000 2017	rashedmohamed39
+#mosthaunted
+#nabaa 
+the Best News App in your hands
+Android https://t.co/JY55ISOgBv iPhone https://t.co/y1mndTWQrt https://t.co/gkkAyMYqO8
+Sentiment Result: polarity = 1.0, subjectivity = 0.3
+
+865920532063166464	Sat May 20 13:21:57 +0000 2017	thequ4nt
+@glumobile Tencent $TCEHY $GLUU @glumobile MLB:17 v 1.1.2 *4.5/5* #44 Top D/L #29 Top Grossing US iOS as of 5:00am… https://t.co/EwethINW3T
+Sentiment Result: polarity = 0.5, subjectivity = 0.5
+
+865920531748593664	Sat May 20 13:21:57 +0000 2017	Tylertwice
+I'm now a C-List celebrity in Kim Kardashian: Hollywood. You can be famous too by playing on iPhone!  https://t.co/ONNVh3tPtO
+Sentiment Result: polarity = 0.625, subjectivity = 1.0
+
+865920564367642624	Sat May 20 13:22:05 +0000 2017	mobikenya
+apple iphone 5 16gb new - Ksh 22,610 https://t.co/6DD7C2vFpu
+Sentiment Result: polarity = 0.13636363636363635, subjectivity = 0.45454545454545453
+
+865920603244593153	Sat May 20 13:22:14 +0000 2017	KeiichiDelRey
+Lana Del Rey did it first :) https://t.co/V9sxDfjhQ5
+Sentiment Result: polarity = 0.375, subjectivity = 0.6666666666666666
+
+865920621263429633	Sat May 20 13:22:18 +0000 2017	jriqions
+buatjalof: AppleSupport: udayayayati Okay, thank you. Which version of iOS is on your iPhone currently? You can locate this by tapping Sett…
+Sentiment Result: polarity = 0.25, subjectivity = 0.45
+
+865920669766213632	Sat May 20 13:22:30 +0000 2017	tenyong88
+Check out Soft TPU Clear Case for iPhone &amp; Samsung for $3.90. Get it on Shopee now! https://t.co/Oiu4o5Jomt… https://t.co/S822DOlXtI
+Sentiment Result: polarity = 0.11250000000000002, subjectivity = 0.36666666666666664
+
+865920680134660097	Sat May 20 13:22:32 +0000 2017	urmajes_Tee
+@DatBoiOhSo Iphone chargers are just shitty in general.
+Sentiment Result: polarity = 0.05000000000000002, subjectivity = 0.5
+
+865920689835999232	Sat May 20 13:22:35 +0000 2017	rashedmohamed39
+#GrahamNorton
+#nabaa 
+the Best News App in your hands
+Android https://t.co/JY55ISOgBv iPhone https://t.co/y1mndTWQrt https://t.co/qD6yEfug7m
+Sentiment Result: polarity = 1.0, subjectivity = 0.3
+
+865920705447297029	Sat May 20 13:22:38 +0000 2017	harveyjkaye
+Don't RT - Read First: The Spring of G.O.P. Discontent, via @nytimes https://t.co/GWUgNXALzZ
+Sentiment Result: polarity = 0.25, subjectivity = 0.3333333333333333
+
+865920742390546432	Sat May 20 13:22:47 +0000 2017	LuNa_GeisT
+@vapelips Thanks for Favorite my tweet!!:)
+that wallpaper is Vape Liquid Brand collection wallpaper for iphone;D
+Sentiment Result: polarity = 0.49374999999999997, subjectivity = 0.7333333333333334
+
+865920742386544641	Sat May 20 13:22:47 +0000 2017	hioEXtG3BmywYtR
+#LDWeek2017
+#nabaa 
+the Best News App in your hands
+Android https://t.co/1intXEJKFC iPhone https://t.co/vhdTcxWkOy https://t.co/VlBydVVd52
+Sentiment Result: polarity = 1.0, subjectivity = 0.3
+
+865920743816691712	Sat May 20 13:22:48 +0000 2017	HobbyCollector9
+@OvercastFM @marcoarment Marco, have you noticed restarts on iPhone when running Overcast? I'm seeing soft restarts a couple times per day
+Sentiment Result: polarity = 0.1, subjectivity = 0.35
+
+865920746664714241	Sat May 20 13:22:48 +0000 2017	UADafagzMFnbyOi
+#laterjools
+#nabaa 
+the Best News App in your hands
+Android https://t.co/ZTJC7vihKM iPhone https://t.co/lSqmr0qecK https://t.co/i5Xz7HVVCl
+Sentiment Result: polarity = 1.0, subjectivity = 0.3
+
+865920747516170244	Sat May 20 13:22:48 +0000 2017	pozan002
+buatjalof: AppleSupport: udayayayati Okay, thank you. Which version of iOS is on your iPhone currently? You can locate this by tapping Sett…
+Sentiment Result: polarity = 0.25, subjectivity = 0.45
+
+865920765304205312	Sat May 20 13:22:53 +0000 2017	sarah3679505
+So nice !! https://t.co/334UWolNg5
+Sentiment Result: polarity = 0.9375, subjectivity = 1.0
+
+865920778394509312	Sat May 20 13:22:56 +0000 2017	johnwilpers
+I liked a @YouTube video https://t.co/uOJTa9Ruq4 How To Connect SMOVE Stabilizer and Powerbank to iPhone
+Sentiment Result: polarity = 0.6, subjectivity = 0.8
+
+865920788561571841	Sat May 20 13:22:58 +0000 2017	UADafagzMFnbyOi
+#soundsofthe80s
+#nabaa 
+the Best News App in your hands
+Android https://t.co/ZTJC7vihKM iPhone… https://t.co/sRUa6m6nqY
+Sentiment Result: polarity = 1.0, subjectivity = 0.3
+
+865920797378043905	Sat May 20 13:23:00 +0000 2017	Qw9mIm
+Check out my photo of #ClumsyNinja for iPhone! Try it for FREE! https://t.co/iYaURTt6Lw https://t.co/durymEgRjm
+Sentiment Result: polarity = 0.5, subjectivity = 0.8
+
+865920810833334274	Sat May 20 13:23:03 +0000 2017	blueminn_
+okay, I need the iPhone 7 now xd https://t.co/OIjrlBfcP3
+Sentiment Result: polarity = 0.5, subjectivity = 0.5
+
+865920952626028546	Sat May 20 13:23:37 +0000 2017	bitcoinlovers2
+-- WIN IPHONE 7 PLUS: Paid our Co Pay for Doctors appointment for our little bun in the oven with #Bitcoin  Thanks BitPay Our first child i…
+Sentiment Result: polarity = 0.265625, subjectivity = 0.35833333333333334
+
+865920954118979584	Sat May 20 13:23:38 +0000 2017	thexeon
+There's a handy shortcut menu hidden on your iPhone or iPad https://t.co/O29VPaBrA2 #thexeon
+Sentiment Result: polarity = 0.21666666666666667, subjectivity = 0.6166666666666667
+
+865920958598701057	Sat May 20 13:23:39 +0000 2017	showmesolutions
+There's a handy shortcut menu hidden on your iPhone or iPad - ZDNet https://t.co/fbOmXoNSAo #iPad
+Sentiment Result: polarity = 0.21666666666666667, subjectivity = 0.6166666666666667
+
+865920984339054593	Sat May 20 13:23:45 +0000 2017	christyg3131
+@paulapoundstone I just watched Colbert (on my iPhone). Awesome as usual! Great to see you on Late Night again. #sentfrommyiphone :(
+Sentiment Result: polarity = 0.0875, subjectivity = 0.72
+
+865921007000981506	Sat May 20 13:23:50 +0000 2017	dougabeles
+In case you missed it, an amazing essay...   John McCain: Why We Must Support Human Rights - NYTi https://t.co/7xmsPOgfnk
+Sentiment Result: polarity = 0.30000000000000004, subjectivity = 0.5
+
+865921026907045888	Sat May 20 13:23:55 +0000 2017	thefattaco9242
+Check out my photo of #ClumsyNinja for iPhone! Try it for FREE! https://t.co/AD0bhkHtsY https://t.co/DOQkWx0gbZ
+Sentiment Result: polarity = 0.5, subjectivity = 0.8
+
+865921027649490944	Sat May 20 13:23:55 +0000 2017	rashedmohamed39
+#totp1983
+#nabaa 
+the Best News App in your hands
+Android https://t.co/JY55ISOgBv iPhone https://t.co/y1mndTWQrt https://t.co/TIVZ9Mm0ti
+Sentiment Result: polarity = 1.0, subjectivity = 0.3
+
+865921037636165632	Sat May 20 13:23:58 +0000 2017	rashedmohamed39
+#gogglebox
+#nabaa 
+the Best News App in your hands
+Android https://t.co/JY55ISOgBv iPhone https://t.co/y1mndTWQrt https://t.co/8QYL4i0pnA
+Sentiment Result: polarity = 1.0, subjectivity = 0.3
+
+865921038772600832	Sat May 20 13:23:58 +0000 2017	sbabij
+Enter for your chance to #Win a #Telus iPhone 5s with @LilSugarMag {CAN} Mobile Coverage While Livin in the 'Burbs' https://t.co/M3HMKJPPnM
+Sentiment Result: polarity = 0.8, subjectivity = 0.4
+
+865921064148258816	Sat May 20 13:24:04 +0000 2017	valencialie11
+look at this free publicity for iphone 7 lol @Apple https://t.co/5IW8hOMcj1
+Sentiment Result: polarity = 0.6000000000000001, subjectivity = 0.75
+
+865921073732341761	Sat May 20 13:24:06 +0000 2017	Rich_Kruse
+Apple Loop: iPhone 8 Leak Confirms Details, iOS 10.3.2 Secrets, New MacBook Pro Hardware via @forbes https://t.co/uQHiBcY443. #johnandrich
+Sentiment Result: polarity = 0.13636363636363635, subjectivity = 0.45454545454545453
+
+865921074571116544	Sat May 20 13:24:06 +0000 2017	iphonenewsooyuz
+So long, Siri: Google Assistant for iPhone is available for download.. Related Articles: https://t.co/kw4sDtI30J
+Sentiment Result: polarity = 0.11666666666666668, subjectivity = 0.4000000000000001
+
+865921093399449601	Sat May 20 13:24:11 +0000 2017	AnnieEngdahl
+I have just reached new 68 level in Mystery Manor! Be my guest! https://t.co/2Z5gzER1kO #iphone #iphonegames #gameinsight
+Sentiment Result: polarity = 0.2130681818181818, subjectivity = 0.45454545454545453
+
+865921097413398528	Sat May 20 13:24:12 +0000 2017	UADafagzMFnbyOi
+#WWEUK
+#nabaa 
+the Best News App in your hands
+Android https://t.co/ZTJC7vihKM iPhone https://t.co/lSqmr0qecK https://t.co/BlYZfasrmt
+Sentiment Result: polarity = 1.0, subjectivity = 0.3
+
+865921144490033152	Sat May 20 13:24:23 +0000 2017	softjinkii
+the kind of camera won't matter if you're shooting an epitome of perfection https://t.co/fwsdsRGl7O
+Sentiment Result: polarity = 0.6, subjectivity = 0.9
+

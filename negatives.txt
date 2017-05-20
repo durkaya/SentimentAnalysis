@@ -207,3 +207,200 @@ Sentiment Result: polarity=-0.4, subjectivity0.4
 I have completed the quest 'Protective Screen' in the #iPhone game The Tribez.  https://t.co/v9Wx2MTqvZ #iphonegames, #gameinsight
 Sentiment Result: polarity=-0.4, subjectivity0.4
 
+865578561175826435	Fri May 19 14:43:05 +0000 2017	0128081414
+I have completed the quest 'Statue Guardians' in the #iPhone game The Tribez.  https://t.co/v9Wx2MTqvZ #iphonegames, #gameinsight
+Sentiment Result: polarity=-0.4, subjectivity0.4
+
+865578569648541696	Fri May 19 14:43:07 +0000 2017	Quoczi_Xiujni
+Apple iPhone 5 - 16GB - Black &amp; Slate (Unlocked) Smartphone https://t.co/LjqqQxa936 https://t.co/IEgprdN6Ga
+Sentiment Result: polarity=-0.16666666666666666, subjectivity0.43333333333333335
+
+865578593975377920	Fri May 19 14:43:13 +0000 2017	Yeubli_Yaujre
+Apple iPhone 5 - 16GB - Black &amp; Slate (Unlocked) Smartphone https://t.co/sL4aHYmwww https://t.co/RcJ4JitA9T
+Sentiment Result: polarity=-0.16666666666666666, subjectivity0.43333333333333335
+
+865578615076933632	Fri May 19 14:43:18 +0000 2017	krysuetal
+abheizthe We're here for you.  How long has this been an issue? Have you recently received a temperature warning or alert on your iPhone?
+Sentiment Result: polarity=-0.025, subjectivity0.325
+
+865578636669206529	Fri May 19 14:43:23 +0000 2017	chrystee3
+really?!  unbelievable 👄👅 https://t.co/8k5RlbBrZG
+Sentiment Result: polarity=-0.25, subjectivity1.0
+
+865578656407502848	Fri May 19 14:43:28 +0000 2017	0128081414
+I have completed the quest 'Rock Problems' in the #iPhone game The Tribez.  https://t.co/v9Wx2MTqvZ #iphonegames, #gameinsight
+Sentiment Result: polarity=-0.4, subjectivity0.4
+
+865578673893658624	Fri May 19 14:43:32 +0000 2017	ashrings
+Regretting my decision to buy @googlenexus 6P. Worst customer service from both @Google  and @HuaweiDeviceUSA 
+Moving to IPhone 🤙
+Sentiment Result: polarity=-1.0, subjectivity1.0
+
+865578673662902272	Fri May 19 14:43:32 +0000 2017	Faapve_Paekvo
+Apple iPhone 5 - 16GB - Black &amp; Slate (Unlocked) Smartphone https://t.co/zhNropxfoz https://t.co/7NDDQ2VPu6
+Sentiment Result: polarity=-0.16666666666666666, subjectivity0.43333333333333335
+
+865578720123248640	Fri May 19 14:43:43 +0000 2017	TheBrothersWars
+omg!  waiting for it so long 😈😋 https://t.co/xtrtFm9f1d
+Sentiment Result: polarity=-0.05, subjectivity0.4
+
+865578725198381056	Fri May 19 14:43:44 +0000 2017	flyingshipping
+#hottt#CHECKER BOARD 3D PRINTED DESIGN WITH CLEAR TPU TITANIUM BLACK CASE FOR IPHONE 7 https://t.co/L142fwlTVE https://t.co/ebWBxawzAP
+Sentiment Result: polarity=-0.03333333333333332, subjectivity0.4083333333333333
+
+865579382345052165	Fri May 19 14:46:21 +0000 2017	PoliticalRising
+#BREAKING House reacts 2 #Rosenstein: (R) "#Comey ill served the American people when he hacked into your iPhone, loved camera"
+Sentiment Result: polarity=-0.1375, subjectivity0.7
+
+865579397155127298	Fri May 19 14:46:24 +0000 2017	Deezy2chill
+really? unbelievable 😚😉 https://t.co/GEFqm18TO2
+Sentiment Result: polarity=-0.25, subjectivity1.0
+
+865579404478599168	Fri May 19 14:46:26 +0000 2017	Coikse_Kaerze
+Factory Unlocked Apple iPhone 5 Black White ATT TMobile Verizon 16/32GB/64GB https://t.co/KIkBkTE6XX https://t.co/16fSYyKCYi
+Sentiment Result: polarity=-0.08333333333333333, subjectivity0.21666666666666667
+
+865579414783803394	Fri May 19 14:46:28 +0000 2017	SpecialCellPho
+Apple iPhone 1st Gen Model A1203 16GB AT&amp;T Smartphone Broken Home Button https://t.co/m3IZSpNwsk https://t.co/ceLxo5tyyv
+Sentiment Result: polarity=-0.4, subjectivity0.4
+
+865579424737054720	Fri May 19 14:46:31 +0000 2017	Giubhi_Qeiflu
+https://t.co/kQdJdhqs0g Unlocked Apple iPhone 5 Black White ATT TMobile Verizon 16/32GB/64GB https://t.co/VdcCyhy1vv
+Sentiment Result: polarity=-0.08333333333333333, subjectivity0.21666666666666667
+
+865579439303819265	Fri May 19 14:46:34 +0000 2017	perry_stubbs
+iPhone dumb with the battery life
+Sentiment Result: polarity=-0.375, subjectivity0.5
+
+865579466927390721	Fri May 19 14:46:41 +0000 2017	DMagic
+rly?.. waiting for it so long 😚😚 https://t.co/VOK3J810Zr
+Sentiment Result: polarity=-0.05, subjectivity0.4
+
+865579489266290688	Fri May 19 14:46:46 +0000 2017	smithboyrd
+Anyone else getting weird popups when opening news links in Twitter on iPhone? Happens way too often...
+Sentiment Result: polarity=-0.5, subjectivity1.0
+
+865579573110386688	Fri May 19 14:47:06 +0000 2017	Coafci_Peakqo
+https://t.co/hmQi18uYaM Unlocked Apple iPhone 5 Black White ATT TMobile Verizon 16/32GB/64GB https://t.co/0tiO0TKa25
+Sentiment Result: polarity=-0.08333333333333333, subjectivity0.21666666666666667
+
+865579581046013952	Fri May 19 14:47:08 +0000 2017	Suudgu_Yaavpa
+Factory Unlocked Apple iPhone 5 Black White ATT TMobile Verizon 16/32GB/64GB https://t.co/uSgOS2LY06 https://t.co/Xeq99JL89N
+Sentiment Result: polarity=-0.08333333333333333, subjectivity0.21666666666666667
+
+865579593792729090	Fri May 19 14:47:11 +0000 2017	Zeextu_Zuiyva
+Factory Unlocked Apple iPhone 5 Black White ATT TMobile Verizon 16/32GB/64GB https://t.co/BvQMP29vRg https://t.co/AOFj1end0p
+Sentiment Result: polarity=-0.08333333333333333, subjectivity0.21666666666666667
+
+865579612641697792	Fri May 19 14:47:16 +0000 2017	Koajgi_Veufyu
+https://t.co/uPOyx2ny8r Unlocked Apple iPhone 5 Black White ATT TMobile Verizon 16/32GB/64GB https://t.co/W9amaPYk9J
+Sentiment Result: polarity=-0.08333333333333333, subjectivity0.21666666666666667
+
+865579615351259136	Fri May 19 14:47:16 +0000 2017	flyingshipping
+#hottt#CHECKER BOARD 3D PRINTED DESIGN WITH CLEAR TPU TITANIUM BLACK CASE FOR IPHONE 7 https://t.co/L142fwlTVE …… https://t.co/1qprFwAZyH
+Sentiment Result: polarity=-0.03333333333333332, subjectivity0.4083333333333333
+
+865580113177587712	Fri May 19 14:49:15 +0000 2017	Joehgi_Buuqpi
+Factory Unlocked Apple iPhone 5 Black White ATT TMobile Verizon 16/32GB/64GB https://t.co/uht22tt2yH
+Sentiment Result: polarity=-0.08333333333333333, subjectivity0.21666666666666667
+
+865580114985275393	Fri May 19 14:49:15 +0000 2017	Vooqqo_Fiamqo
+Factory Unlocked Apple iPhone 5 Black White ATT TMobile Verizon 16/32GB/64GB https://t.co/0vXMp1asgp https://t.co/v2IJGEhl7s
+Sentiment Result: polarity=-0.08333333333333333, subjectivity0.21666666666666667
+
+865580118361518083	Fri May 19 14:49:16 +0000 2017	Rousdi_Daatde
+Factory Unlocked Apple iPhone 5 Black White ATT TMobile Verizon 16/32GB/64GB https://t.co/L3nE0b5NYr https://t.co/BEvXFBwRsP
+Sentiment Result: polarity=-0.08333333333333333, subjectivity0.21666666666666667
+
+865580127471550469	Fri May 19 14:49:18 +0000 2017	Viunwi_Goange
+https://t.co/eqqMw0czWv Unlocked Apple iPhone 5 Black White ATT TMobile Verizon 16/32GB/64GB https://t.co/cOlgaQSVaq
+Sentiment Result: polarity=-0.08333333333333333, subjectivity0.21666666666666667
+
+865580133389713408	Fri May 19 14:49:20 +0000 2017	Tooyvi_Tiugba
+Factory Unlocked Apple iPhone 5 Black White ATT TMobile Verizon 16/32GB/64GB https://t.co/bN9vVcyHIJ https://t.co/Yd7jgXb94a
+Sentiment Result: polarity=-0.08333333333333333, subjectivity0.21666666666666667
+
+865580143682625537	Fri May 19 14:49:22 +0000 2017	Teutte_Buuwya
+2800MAH EXTERNAL BACKUP BATTERY CHARGER POWER BANK CASE COVER BLACK FOR IPHONE 5 https://t.co/fbaERI88ra https://t.co/aPX3ekLl8J
+Sentiment Result: polarity=-0.08333333333333333, subjectivity0.26666666666666666
+
+865580149579759616	Fri May 19 14:49:24 +0000 2017	Kaiqju_Caixfi
+2800MAH EXTERNAL BACKUP BATTERY CHARGER POWER BANK CASE COVER BLACK FOR IPHONE 5 https://t.co/sr7QhzRjy3 https://t.co/Wv7e4XifO0
+Sentiment Result: polarity=-0.08333333333333333, subjectivity0.26666666666666666
+
+865582830125957120	Fri May 19 15:00:03 +0000 2017	guroldeniz06
+Bu arada IPHONE 7 JET BLACK 128 GB\'ı hâlâ satamadım. Telefon büyülü müdür nedir? Satılamıyor aq.
+Sentiment Result: polarity=-0.16666666666666666, subjectivity0.43333333333333335
+
+865643944192823296	Fri May 19 19:02:53 +0000 2017	ndrx42
+@delirehberi hmms iphone için olmamış :/
+Sentiment Result: polarity=-0.25, subjectivity1.0
+
+865643944192823296	Fri May 19 19:02:53 +0000 2017	ndrx42
+@delirehberi hmms iphone için olmamış :/
+Sentiment Result: polarity=-0.25, subjectivity1.0
+
+865919205983571968	Sat May 20 13:16:41 +0000 2017	Roylopez1012008
+Having Trouble Keeping Up With All the Trump News? Here Are the Must-Reads, via @nytimes https://t.co/b7UsLsP5VC
+Sentiment Result: polarity=-0.2, subjectivity0.2
+
+865919209620090880	Sat May 20 13:16:42 +0000 2017	ameliaruty1
+😅 💀 Apple iPhone 7 Unlocked Phone 128 GB - International Version (Jet Black)  Hassan  Rouhani https://t.co/ZQkG3nCSPQ
+Sentiment Result: polarity=-0.08333333333333333, subjectivity0.21666666666666667
+
+865919247557566464	Sat May 20 13:16:51 +0000 2017	SADJESUSSS
+this wont work for me, too ugly for this https://t.co/QScQFJgSLK
+Sentiment Result: polarity=-0.7, subjectivity1.0
+
+865919256931823616	Sat May 20 13:16:53 +0000 2017	AmyHeath10536
+Having Trouble Keeping Up With All the Trump News? Here Are the Must-Reads, via @nytimes https://t.co/278g3rcCW6
+Sentiment Result: polarity=-0.2, subjectivity0.2
+
+865920006051311617	Sat May 20 13:19:52 +0000 2017	Trae_Dizzy
+No idea what evil spirits possessed me to put my phone in such an improper place. At least I learned how to use find my iPhone
+Sentiment Result: polarity=-0.43333333333333335, subjectivity0.6333333333333333
+
+865920585494167554	Sat May 20 13:22:10 +0000 2017	Masha12407311
+Samsung Galaxy S8 VS. iPhone 7: One is ultra faster than the other - https://t.co/Eaid4HeurP
+Sentiment Result: polarity = -0.125, subjectivity = 0.375
+
+865920644982030336	Sat May 20 13:22:24 +0000 2017	vionytaniaa
+@allkpop Well, iphone's camera isn't that bad as long as you have a good lighting
+Sentiment Result: polarity = -0.016666666666666646, subjectivity = 0.5555555555555556
+
+865920671699927040	Sat May 20 13:22:30 +0000 2017	Roylopez1012008
+Steer Clear of This ‘Bad Idea’: Cash Advances on Credit Cards, via @nytimes https://t.co/Wkq6Sj4p98
+Sentiment Result: polarity = -0.29999999999999993, subjectivity = 0.5249999999999999
+
+865920730151624705	Sat May 20 13:22:44 +0000 2017	ItsBoseman
+I liked a @YouTube video https://t.co/vySgeuLF11 5 Most Dangerous iPhone Cases Ever! (Some Illegal)
+Sentiment Result: polarity = -0.03749999999999998, subjectivity = 0.675
+
+865920732529803264	Sat May 20 13:22:45 +0000 2017	YourSeokJin
+my fuckjndckjskcj iphone is fucked up i wanna throw this shit out
+Sentiment Result: polarity = -0.4, subjectivity = 0.75
+
+865920736267046913	Sat May 20 13:22:46 +0000 2017	AndrewKoenig2
+Why the fuck does a 12 year old need an iPhone? Who the fuck are you texting? #badparenting
+Sentiment Result: polarity = -0.23333333333333336, subjectivity = 0.4666666666666666
+
+865920778910302208	Sat May 20 13:22:56 +0000 2017	ridbay
+Samsung Galaxy S8 VS. iPhone 7: One is ultra faster than the other: We shouldn't care much… https://t.co/NFaqJd9TrF
+Sentiment Result: polarity = -0.125, subjectivity = 0.375
+
+865920828776497152	Sat May 20 13:23:08 +0000 2017	excitingoffers
+Apple iPhone 6 Plus - 128GB - Space Grey (O2) Smartphone https://t.co/PhVVaZU55Y https://t.co/8KcELE7n66
+Sentiment Result: polarity = -0.05, subjectivity = 0.1
+
+865920833293737988	Sat May 20 13:23:09 +0000 2017	jarroddicker
+I respect the world out of what @ev did/does but Internet is far from broken. We're learning from Mediums mistakes. https://t.co/cH04G9jyT0
+Sentiment Result: polarity = -0.15000000000000002, subjectivity = 0.7
+
+865921062634237953	Sat May 20 13:24:04 +0000 2017	Netflixhelps
+@PiotrSwiader That's no good! When you try to watch Netflix on your iPhone 7 are you using WiFi or cellular data? Does it not load on... 1/2
+Sentiment Result: polarity = -0.4375, subjectivity = 0.6000000000000001
+
+865921071593250816	Sat May 20 13:24:06 +0000 2017	PlaceRocket
+‘The Internet Is Broken’: @ev Is Trying to Salvage It, via @nytimes https://t.co/HFVcpN8yCv
+Sentiment Result: polarity = -0.4, subjectivity = 0.4
+
